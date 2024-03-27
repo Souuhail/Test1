@@ -1,0 +1,20 @@
+---
+- name: UPdate w configuration
+  hosts: all
+  become: yes
+  tasks:
+    - name: Update packages
+      apt:
+        update_cache: yes
+        upgrade: yes
+        cache_valid_time: 3600
+
+    - name: insttttalli packages
+      apt:
+        name: 
+          - nginx
+          # najem nzid git : python kima kotly tawa
+        state: present
+
+    # Add more tasks to configure your VMs as needed
+

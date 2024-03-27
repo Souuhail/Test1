@@ -1,0 +1,17 @@
+00:00:01.598391 VirtualBox GUI VM Selector Window 6.1.50_Ubuntu r161033 linux.amd64 (Jan 23 2024 12:29:45) release log
+00:00:01.598393 Log opened 2024-03-26T01:59:39.933136000Z
+00:00:01.598394 Build Type: release
+00:00:01.598398 OS Product: Linux
+00:00:01.598399 OS Release: 6.5.0-26-generic
+00:00:01.598399 OS Version: #26~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Mar 12 10:22:43 UTC 2
+00:00:01.598425 DMI Product Name: VMware Virtual Platform
+00:00:01.598430 DMI Product Version: None
+00:00:01.598438 Firmware type: BIOS
+00:00:01.598472 Host RAM: 3870MB (3.7GB) total, 469MB available
+00:00:01.598477 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:01.598477 Process ID: 12454
+00:00:01.598477 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:01.598508 Qt version: 5.15.3
+00:00:01.662359 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:04.159674 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 70x27 x 1408x871
+00:00:04.182007 GUI: UIMediumEnumerator: Medium-enumeration finished!
